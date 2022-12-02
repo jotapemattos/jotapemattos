@@ -19,4 +19,3 @@
   <a href = "mailto:jpmrc49.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=jotapemattos&theme=gotham&hide_border=true&area=true)
