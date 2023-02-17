@@ -1,14 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=227475&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+João+Pedro+Mattos;I+study+systems+analysis+and+development+at+IFSP-BRA;Be+Welcome!)](https://git.io/typing-svg)
+# Hi there, I'm João Pedro Mattos 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="jp-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="jp-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="jp-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+⛏️ Digital craftsman (frontend-developer)
+
+🧠 Web technology enthusiast
+
+🧡 Passionate about solving problems by building charming interfaces.
+
+## Find me elsewhere 🗺️
+
+<div> 
+  <a href = "mailto:jpmrc49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-mattos-rodrigues-camargo-23b52a25b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ##
+## Techs ⚙️
+<div style="display: inline_block">
+  <span><p>React <img align="center" alt="jp-react" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></span>
+  <span><p>TypeScript <img align="center" alt="jp-react" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></p> </span>
+  <span><p>Tailwind <img align="center" alt="jp-react" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">   </p> </span>
+ </div>
 
-<div style="align: center"> 
-  <a href = "mailto:jpmrc49.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
