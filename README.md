@@ -1,14 +1,17 @@
-# Hi there, I'm João Pedro Mattos 
 
-⛏️ Digital craftsman (frontend-developer)
+<div align="center">
+   <h1>  Hi there, I'm João Pedro Mattos </h1>
+</div>
+<div align="center">
+ 
+   <p>Building great digital experiences with next.js, react and typescript</p>
+</div>
 
-🧠 Web technology enthusiast
+<div align="center">
+   <h2>  Find me elsewhere 🗺️ </h2>
+</div>
 
-🧡 Passionate about solving problems by building charming interfaces.
-
-## Find me elsewhere 🗺️
-
-<div> 
+<div align="center"> 
    <a href = "mailto:jpmrc49@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -20,11 +23,4 @@
 </a>
 </div>
 
-## Techs ⚙️
-<div style="display: inline_block">
-  <span><p>React <img align="center" alt="react" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></span>
-  <span><p>TypeScript <img align="center" alt="typescript" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></p> </span>
-  <span><p>Tailwind <img align="center" alt="tailwind" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">   </p> </span>
-   <span><p>Nextjs <img align="center" alt="next" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> </p> </span>
- </div>
 
