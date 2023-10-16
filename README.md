@@ -7,10 +7,6 @@
    <p>Building great digital experiences with next.js, react and typescript</p>
 </div>
 
-<div align="center">
-   <h2>  Find me elsewhere 🗺️ </h2>
-</div>
-
 <div align="center"> 
    <a href = "mailto:jpmrc49@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
