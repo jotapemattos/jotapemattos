@@ -1,6 +1,6 @@
 
 <div align="center">
-   <h1>  Hi there, I'm João Pedro Mattos </h1>
+   <h1>  Yo, I'm João Pedro </h1>
 </div>
 <div align="center">
  
