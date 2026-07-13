@@ -4,7 +4,7 @@
 </div>
 <div align="center">
  
-   <p>Building great digital experiences with next.js, react and typescript</p>
+   <p>Building great digital experiences with next.js, node.js and typescript</p>
 </div>
 
 <div align="center"> 
